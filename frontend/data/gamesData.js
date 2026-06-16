@@ -28,5 +28,14 @@ export const gamesData = [
     items: [],
     strategies: [],
     locations: []
-  }
+  },
+  {
+    id: 'game_4',
+    name: 'Game Title 4',
+    description: 'Add more games here',
+    thumbnail: 'https://via.placeholder.com/400x200?text=Game+4',
+    characters: [],
+    items: [],
+    strategies: [],
+    locations: []
 ];
